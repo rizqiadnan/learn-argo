@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: rizqiadnan/nginx:1.25-alpine-3
+        image: rizqiadnan/nginx:1.25-alpine
         ports:
           - containerPort: 80
